@@ -1,6 +1,6 @@
 {
   "name": "@aligent/cdk-static-hosting",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "index.js",
   "license": "GPL-3.0-only",
   "homepage": "https://github.com/aligent/aws-cdk-static-hosting-stack#readme",
@@ -16,7 +16,7 @@
   "devDependencies": {
     "@aws-cdk/assert": "^1.111.0",
     "@aws-cdk/aws-cloudfront": "1.111.0",
-    "@aws-cdk/aws-iam": "1.111.0",
+    "@aws-cdk/aws-iam": "1.151.0",
     "@aws-cdk/aws-route53": "1.111.0",
     "@aws-cdk/aws-route53-targets": "1.111.0",
     "@aws-cdk/aws-s3": "1.111.0",
@@ -32,7 +32,7 @@
   },
   "peerDependencies": {
     "@aws-cdk/aws-cloudfront": "1.111.0",
-    "@aws-cdk/aws-iam": "1.111.0",
+    "@aws-cdk/aws-iam": "1.151.0",
     "@aws-cdk/aws-route53": "1.111.0",
     "@aws-cdk/aws-route53-targets": "1.111.0",
     "@aws-cdk/aws-s3": "1.111.0",
