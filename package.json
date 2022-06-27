@@ -19,7 +19,7 @@
     "@aws-cdk/aws-iam": "1.111.0",
     "@aws-cdk/aws-route53": "1.111.0",
     "@aws-cdk/aws-route53-targets": "1.111.0",
-    "@aws-cdk/aws-s3": "1.111.0",
+    "@aws-cdk/aws-s3": "1.161.0",
     "@aws-cdk/core": "1.158.0",
     "@types/jest": "^26.0.24",
     "@types/node": "16.4.13",
@@ -35,7 +35,7 @@
     "@aws-cdk/aws-iam": "1.111.0",
     "@aws-cdk/aws-route53": "1.111.0",
     "@aws-cdk/aws-route53-targets": "1.111.0",
-    "@aws-cdk/aws-s3": "1.111.0",
+    "@aws-cdk/aws-s3": "1.161.0",
     "@aws-cdk/core": "1.158.0",
     "aws-cdk": "1.111.0",
     "constructs": "3.3.69"
