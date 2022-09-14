@@ -1,5 +1,8 @@
 # Aligent AWS Static Hosting
 
+## Archived
+Further updates can be found here https://github.com/aligent/cdk-constructs/tree/main/packages/static-hosting
+
 ## Overview
 
 This repository defines a CDK construct for hosting a static website on AWS using S3 and CloudFront. 
